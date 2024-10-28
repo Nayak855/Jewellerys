@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jewellery Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bracelets collections</h1>
+        <nav>
+            <ul>
+                <li><a href="unique designs"> unique designs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+        </div>
+
+    <section id="shop">
+        <h2>Shop Our Collection</h2>
+        <div class="product">
+            <img src="br1.jpg" alt="Gold Ring">
+            <h3>Fashion Factory</h3>
+            <p>$384</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="br2.jpg" alt="bridal jewellery set">
+            <h3>ShyamProducts</h3>
+            <p>$179</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="br3.jpg" alt="Silver Bracelet">
+            <h3>PIPO</h3>
+            <p>$683</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="br10.JPG" alt="Silver Bracelet">
+            <h3>Sukkhi</h3>
+            <p>$298</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="br12.JPG" alt="Silver Bracelet">
+            <h3>Rukma Alloy White Jewel set</h3>
+            <p>$178</p>
+            <button>Add to Cart</button>
+        </div>
+        </div>
+        <div class="product">
+            <img src="br9.jpg" alt="Silver Bracelet">
+            <h3>Orbis</h3>
+            <p>$999</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="BR11.JPG" alt="Silver Bracelet">
+            <h3>uncurb </h3>
+            <p>$208</p>
+            <button>Add to Cart</button>
+        </div>
+
+
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Elegant Jewellery. All rights reserved.</p>
+    </footer>
+</body>
+</html>

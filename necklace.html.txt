@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jewellery Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Necklaces collection</h1>
+        <nav>
+            <ul>
+                <li><a href="unique designs"> unique designs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+        </div>
+
+    <section id="shop">
+        <h2>Shop Our Collection</h2>
+        <div class="product">
+            <img src="N1.JPEG" alt="Gold Ring">
+            <h3>Fashion Factory</h3>
+            <p>$284</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="N2.JEPG.jpg" alt="bridal jewellery set">
+            <h3>ShyamProducts</h3>
+            <p>$799</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="N3.PNG" alt="Silver Bracelet">
+            <h3>PIPO</h3>
+            <p>$835</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="s1.JPEG" alt="Silver Bracelet">
+            <h3>Sukkhi</h3>
+            <p>$349</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="s2.PNG" alt="Silver Bracelet">
+            <h3>Rukma Alloy White Jewel set</h3>
+            <p>$378</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="s3.PNG" alt="Silver Bracelet">
+            <h3>Rhymee </h3>
+            <p>$500</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="set1.JPEG" alt="Silver Bracelet">
+            <h3>Orbis</h3>
+            <p>$899</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="b1.WEBP" alt="Silver Bracelet">
+            <h3>uncurb </h3>
+            <p>$2080</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="b2.JPEG" alt="Silver Bracelet">
+            <h3>unique Necklace </h3>
+            <p>$1599</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="b3.JPEG" alt="Silver Bracelet">
+            <h3>wedding jewellery Set  </h3>
+            <p>$2999</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="b4.JPEG" alt="Silver Bracelet">
+            <h3>JewelShadi</h3>
+            <p>$1899</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product">
+            <img src="l2.JPG" alt="Silver Bracelet">
+            <h3>white jewel</h3>
+            <p>$599</p>
+            <button>Add to Cart</button>
+        </div>
+
+<div class="product">
+            <img src="l1.JPG" alt="Silver Bracelet">
+            <h3>Suki</h3>
+            <p>$499</p>
+            <button>Add to Cart</button>
+        </div>
+
+
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Elegant Jewellery. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="Search.css">
+<section id="Search">
+    <h1>Available Collection</h1>
+    <a href="ring.html">RINGS</a><br>
+    <a href="Bracelet.html">BRACELETS</a><br>
+    <a href="earrings.html">EARRINGS</a><br>
+    <a href="Bangels.html">BANGELS</a><br>
+    <a href="necklace.html">NECKLACES</a><br>
+    <a href="anklets.html">ANKLETS</a><br>
+    </section>
+    
